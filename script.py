@@ -1,5 +1,6 @@
 from blockchain import Blockchain
-
+#Code done by LUCIA FUENTES, inspired by codecademy
+#testing
 block_one_transactions = {"sender":"Alice", "receiver": "Bob", "amount":"50"}
 block_two_transactions = {"sender": "Bob", "receiver":"Cole", "amount":"25"}
 block_three_transactions = {"sender":"Alice", "receiver":"Cole", "amount":"35"}

@@ -1,7 +1,10 @@
 from block import Block
+#Code done by LUCIA FUENTES, inspired by codecademy
 
 
+#class for the blockchain datastructure, built from individual transaction blocks, and  a genesis/initial block
 class Blockchain:
+    #constructor of the blockchain data structure including a chain list of blocks, unconfirmed transactions, and  agenesis block
     def __init__(self):
         self.chain = []
         self.unconfirmed_transactions = []

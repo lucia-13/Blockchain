@@ -1,2 +1,3 @@
-Hello Git and GitHub
-Hello Git and GitHub
+Implementation of a small sclae Blockchain linbra
+Including functionalyty to :
+-[x] Using SHA256
