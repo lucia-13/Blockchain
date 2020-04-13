@@ -2,13 +2,13 @@
 
 By:  Lucia Fuentes
 
-Blockchain Implementation
+Just an Small Blockchain Library
 =============
 
-Phyton based, inspired by Codecademy's Introduction to blockchain Coursew
+Phyton based, inspired by Codecademy's Introduction to Blockchain Course
 ---------------------
 
-Implementation of a small scale Blockchain libarary, that includes the Blockchain DS
+Implementation of a small scale Blockchain library, that includes the Blockchain DS
  and block class, plus a test file.
 that includes
 Includes functionalities to :

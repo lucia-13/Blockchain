@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19db418d-b2a4-43a0-bd77-f9ab933b5fb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="19db418d-b2a4-43a0-bd77-f9ab933b5fb2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,10 +31,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -131,9 +129,10 @@
       <screen x="0" y="23" width="1440" height="824" />
     </state>
     <state width="1379" height="247" key="GridCell.Tab.1.right/0.23.1440.824@0.23.1440.824" timestamp="1586240863092" />
-    <state x="399" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1586232725574">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1586756463069">
+      <screen x="0" y="23" width="1440" height="824" />
     </state>
     <state x="399" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1586232725574" />
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.824@0.23.1440.824" timestamp="1586756463069" />
   </component>
 </project>
