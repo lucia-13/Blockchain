@@ -17,3 +17,4 @@ Includes functionalities to :
 -[x] Use proof of work to add blocks to the confirmed chain
 -[x] Create SHA 256 hash , based on block's previous_hash, nonce value, transactions, and time stamp
 -[x] Verify chain's validity
+
