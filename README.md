@@ -2,10 +2,10 @@
 
 By:  Lucia Fuentes
 
-Just an Small Blockchain Library
+Just an Small Blockchain Library 
 =============
 
-Phyton based, inspired by Codecademy's Introduction to Blockchain Course
+Phyton based :snake: , inspired by Codecademy's Introduction to Blockchain Course
 ---------------------
 
 Implementation of a small scale Blockchain library, that includes the Blockchain DS
