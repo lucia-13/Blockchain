@@ -2,7 +2,7 @@
 
 By:  Lucia Fuentes
 
-Just an Small Blockchain Library 
+Just a Small Blockchain Library 
 =============
 
 Phyton based :snake: , inspired by Codecademy's Introduction to Blockchain Course
